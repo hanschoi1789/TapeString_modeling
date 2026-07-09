@@ -1,1 +1,0 @@
-# TapeString_modeling
